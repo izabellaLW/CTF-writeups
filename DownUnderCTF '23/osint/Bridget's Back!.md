@@ -10,12 +10,14 @@
 |**CTF Date (dd/mm/yyyy)**|_19:30:00 (AEST) 01/10/2023_|
 
 ## Prompt
-_Bridget's travelling the globe and found this marvellous bridge, can you uncover where she took the photo from?_
+<p align="center"> Bridget's travelling the globe and found this marvellous bridge, can you uncover where she took the photo from? </p>
 
-NOTE: Flag is case-insensitive and requires placing inside DUCTF{} wrapper! e.g. DUCTF{a_b_c_d_example}
+<p align="center"> <sup> NOTE: Flag is case-insensitive and requires placing inside DUCTF{} wrapper! e.g. DUCTF{a_b_c_d_example} <sup> </p>
 
 ## Attachement(s)
+ <p align="center" width="100%">
  <img src="https://github.com/DownUnderCTF/Challenges_2023_Public/blob/main/osint/bridgetsback/publish/BridgetsBack.jpg?raw=true" title="Bridget's Back!" alt="Bridget's Back!" width="800" height="600"/>&nbsp;  
+ </p>
 
 
 # Solution
