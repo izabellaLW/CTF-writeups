@@ -23,7 +23,7 @@
 # Solution
 
 ## Assumed Knowledge
-The red bridge is an iconic landmark of San Franciso — _The Golden Gate Bridge_.
+The red bridge is an iconic landmark of San Francisco — _The Golden Gate Bridge_.
 
 ## Steps
 1. From the aforementioned deduction, I used Google Maps to determine the photograph's location based on the incoming and outgoing traffic. I determined that it was taken on the northern side of GGB.
